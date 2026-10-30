@@ -10,18 +10,18 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
-- 🎯 Estoy enfocado en convertirme en **desarrollador backend**, trabajando principalmente con **Java y Spring Boot**.
-- 📚 Estoy en **constante aprendizaje**: cada proyecto es una oportunidad para mejorar y escribir mejor código.
-- 📈 Tengo **alta capacidad de mejora** y me tomo en serio la retroalimentación y las buenas prácticas.
-- 🧼 Me importa el **código limpio**, la arquitectura ordenada y los detalles que hacen un proyecto mantenible.
-- 🧩 Disfruto resolver problemas lógicos y entender *cómo* y *por qué* funcionan las cosas por dentro.
-- 📖 Leo documentación técnica en inglés sin problema.
+- Estoy enfocado en convertirme en **desarrollador backend**, trabajando principalmente con **Java y Spring Boot**.
+- Estoy en **constante aprendizaje**: cada proyecto es una oportunidad para mejorar y escribir mejor código.
+- Tengo **alta capacidad de mejora** y me tomo en serio la retroalimentación y las buenas prácticas.
+- Me importa el **código limpio**, la arquitectura ordenada y los detalles que hacen un proyecto mantenible.
+- Disfruto resolver problemas lógicos y entender *cómo* y *por qué* funcionan las cosas por dentro.
+- Leo documentación técnica en inglés sin problema.
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 ### Lenguajes y bases de datos
 
@@ -47,31 +47,31 @@
 
 ---
 
-## 🧠 Conceptos y buenas prácticas
+## Conceptos y buenas prácticas
 
 | Área | Lo que manejo |
 |------|---------------|
-| 🏗️ **Arquitectura** | MVC, arquitectura por capas (Controller → Service → Repository) |
-| 🧬 **Persistencia** | Modelado de entidades, relaciones e integridad con JPA/Hibernate |
-| 🔌 **APIs** | Diseño de APIs REST, operaciones CRUD, validación de datos |
-| ⚠️ **Errores** | Manejo global de excepciones |
-| 🧵 **Concurrencia** | Hilos en Java |
-| 🎨 **Patrones** | Singleton |
-| ✨ **Calidad** | Código limpio y legible |
+| **Arquitectura** | MVC, arquitectura por capas (Controller → Service → Repository) |
+| **Persistencia** | Modelado de entidades, relaciones e integridad con JPA/Hibernate |
+| **APIs** | Diseño de APIs REST, operaciones CRUD, validación de datos |
+| **Errores** | Manejo global de excepciones |
+| **Concurrencia** | Hilos en Java |
+| **Patrones** | Singleton |
+| **Calidad** | Código limpio y legible |
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
-### 🏥 [Medisolution](https://github.com/Victor-Quiceno/Medisolution) — API REST Backend
+### [Medisolution](https://github.com/Victor-Quiceno/Medisolution) — API REST Backend
 
 API REST completa para la gestión de **pacientes, médicos, EPS y citas médicas**.
 
-- 🗄️ Persistencia con **JPA/Hibernate y MySQL**, cuidando la integridad relacional.
-- 🏛️ Arquitectura **por capas** (Controller, Service, Repository) pensada para escalar.
-- 🔁 Operaciones **CRUD** completas con **manejo global de excepciones**.
-- ✅ Validaciones de entrada para mantener la consistencia de los datos.
-- 🧩 Uso del patrón **Singleton** para gestionar recursos de forma eficiente.
+- Persistencia con **JPA/Hibernate y MySQL**, cuidando la integridad relacional.
+- Arquitectura **por capas** (Controller, Service, Repository) pensada para escalar.
+- Operaciones **CRUD** completas con **manejo global de excepciones**.
+- Validaciones de entrada para mantener la consistencia de los datos.
+- Uso del patrón **Singleton** para gestionar recursos de forma eficiente.
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -83,16 +83,16 @@ API REST completa para la gestión de **pacientes, médicos, EPS y citas médica
 
 ---
 
-## 🌱 Qué estoy aprendiendo ahora
+## Qué estoy aprendiendo ahora
 
-- 🔐 Seguridad en APIs (Spring Security / JWT)
-- 🧪 Pruebas unitarias y de integración
-- 🐳 Docker y despliegue
-- 🧱 Principios SOLID y más patrones de diseño
+- Seguridad en APIs (Spring Security / JWT)
+- Pruebas unitarias y de integración
+- Docker y despliegue
+- Principios SOLID y más patrones de diseño
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -107,7 +107,7 @@ API REST completa para la gestión de **pacientes, médicos, EPS y citas médica
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
@@ -120,7 +120,7 @@ API REST completa para la gestión de **pacientes, médicos, EPS y citas médica
 
 <div align="center">
 
-*"Primero hazlo funcionar, luego hazlo bien, después hazlo rápido."* 💡
+*"Primero hazlo funcionar, luego hazlo bien, después hazlo rápido."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 

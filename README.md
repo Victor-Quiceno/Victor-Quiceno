@@ -1,98 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Victor%20Quiceno&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20Developer&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Backend%20Developer%20in%20Progress&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+en+formaci%C3%B3n+%E2%98%95;Java+%7C+Spring+Boot+%7C+APIs+REST;Aprendiendo+cada+d%C3%ADa%2C+mejorando+cada+commit+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Clean+code+and+layered+architecture;Learning+every+day%2C+improving+with+every+commit" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+<br/>
 
-## Sobre mí
+<h2 align="center">Sobre mí</h2>
 
-- Estoy enfocado en convertirme en **desarrollador backend**, trabajando principalmente con **Java y Spring Boot**.
-- Estoy en **constante aprendizaje**: cada proyecto es una oportunidad para mejorar y escribir mejor código.
-- Tengo **alta capacidad de mejora** y me tomo en serio la retroalimentación y las buenas prácticas.
-- Me importa el **código limpio**, la arquitectura ordenada y los detalles que hacen un proyecto mantenible.
-- Disfruto resolver problemas lógicos y entender *cómo* y *por qué* funcionan las cosas por dentro.
-- Leo documentación técnica en inglés sin problema.
+¡Hola! Mi nombre es Victor Manuel Quiceno.
 
----
+Soy estudiante de Tecnología en Desarrollo de Software y estoy construyendo mi camino para convertirme en desarrollador backend, creando APIs y soluciones ordenadas, escalables y bien pensadas con Java y Spring Boot. Siempre estoy en búsqueda de aprender algo nuevo y de mejorar un poco más con cada proyecto.
 
-## Stack tecnológico
+Este perfil es una muestra de ese proceso: aquí practico, construyo, me equivoco y vuelvo a intentarlo, buscando escribir cada día un código más limpio y mejor estructurado.
 
-### Lenguajes y bases de datos
+<h2 align="center">About Me</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,mysql" alt="Java, MySQL" />
+Hi! My name is Victor Manuel Quiceno.
+
+I am a Software Development student. I am working to become a backend developer. I build clear and scalable APIs and solutions with Java and Spring Boot. I always want to learn something new and get a little better with each project.
+
+This profile shows that process. Here I practice, build, make mistakes, and try again. My goal is to write cleaner and better organized code every day.
+
+<br/>
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Languages, Frameworks and Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java, Spring Boot, Hibernate" />
 </p>
 
-### Frameworks y librerías
+<p align="center"><sub>Java &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; JPA / Hibernate &nbsp;|&nbsp; REST APIs</sub></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JPA" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+<h3 align="center">Databases and Containers</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL, Docker" />
 </p>
 
-### Herramientas
+<p align="center"><sub>SQL &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Docker</sub></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,idea,postman" alt="Git, GitHub, Maven, IntelliJ, Postman" />
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github" alt="VS Code, IntelliJ IDEA, Postman, Git, GitHub" />
 </p>
 
----
+<p align="center"><sub>VS Code &nbsp;|&nbsp; IntelliJ IDEA &nbsp;|&nbsp; Postman &nbsp;|&nbsp; Git &nbsp;|&nbsp; GitHub</sub></p>
 
-## Conceptos y buenas prácticas
+<br/>
 
-| Área | Lo que manejo |
-|------|---------------|
-| **Arquitectura** | MVC, arquitectura por capas (Controller → Service → Repository) |
-| **Persistencia** | Modelado de entidades, relaciones e integridad con JPA/Hibernate |
-| **APIs** | Diseño de APIs REST, operaciones CRUD, validación de datos |
-| **Errores** | Manejo global de excepciones |
-| **Concurrencia** | Hilos en Java |
-| **Patrones** | Singleton |
-| **Calidad** | Código limpio y legible |
+<h2 align="center">Featured Project</h2>
 
----
+<h3 align="center"><a href="https://github.com/Victor-Quiceno/Medisolution">Medisolution - REST API Backend</a></h3>
 
-## Proyecto destacado
+  <b>Status: under construction.</b> This project is still in development, so new features and changes are coming.
 
-### [Medisolution](https://github.com/Victor-Quiceno/Medisolution) — API REST Backend
+  A REST API for managing <b>patients, doctors, health insurance providers (EPS) and medical appointments</b>.
 
-API REST completa para la gestión de **pacientes, médicos, EPS y citas médicas**.
 
-- Persistencia con **JPA/Hibernate y MySQL**, cuidando la integridad relacional.
-- Arquitectura **por capas** (Controller, Service, Repository) pensada para escalar.
-- Operaciones **CRUD** completas con **manejo global de excepciones**.
-- Validaciones de entrada para mantener la consistencia de los datos.
-- Uso del patrón **Singleton** para gestionar recursos de forma eficiente.
+- Data persistence with **JPA/Hibernate and MySQL**, ensuring relational integrity.
+- **Layered architecture** (Controller, Service, Repository) designed to scale.
+- Full **CRUD operations** with **global exception handling**.
+- Input **validations** to keep data consistent.
+- **Singleton** pattern applied for efficient resource management.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven" alt="Project stack" />
 </p>
 
----
+<br/>
 
-## Qué estoy aprendiendo ahora
+<h2 align="center">Currently Learning</h2>
 
-- Seguridad en APIs (Spring Security / JWT)
-- Pruebas unitarias y de integración
-- Docker y despliegue
-- Principios SOLID y más patrones de diseño
+<p align="center">
+  API security (Spring Security and JWT) &nbsp;|&nbsp; Unit and integration testing &nbsp;|&nbsp; SOLID principles and more design patterns
+</p>
 
----
+<br/>
 
-## Estadísticas de GitHub
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -105,12 +98,12 @@ API REST completa para la gestión de **pacientes, médicos, EPS y citas médica
 
 </div>
 
----
+<br/>
 
-## Contacto
+<h2 align="center">Get in Touch</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-manuel-quiceno-guerra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vquicenoguerra@gmail.com">
@@ -120,7 +113,7 @@ API REST completa para la gestión de **pacientes, médicos, EPS y citas médica
 
 <div align="center">
 
-*"Primero hazlo funcionar, luego hazlo bien, después hazlo rápido."* 
+<i>"First make it work, then make it right, then make it fast."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
